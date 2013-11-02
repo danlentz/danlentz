@@ -51,5 +51,5 @@
 
 ;; For interactive development:
 
-(.stop server)
-(def server (-main))
+;; (.stop server)
+;; (def server (-main))
