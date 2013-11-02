@@ -1,4 +1,4 @@
-(defproject danlentz "1.0.0-SNAPSHOT"
+(defproject danlentz/danlentz "1.0.0-SNAPSHOT"
   :description "FIXME: write description"
   :url "http://danlentz.herokuapp.com"
   :license {:name "FIXME: choose"
@@ -13,6 +13,7 @@
                  [postgresql "9.1-901.jdbc4"]
                  [korma "0.3.0-RC6"]
                  [pg-hstore "2.0.1"]
+                 [org.asciidoctor/asciidoctor-java-integration "0.1.4"]
                  ]
   :min-lein-version "2.0.0"
   :plugins [[environ/environ.lein "0.2.1"]]
