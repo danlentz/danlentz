@@ -1,7 +1,7 @@
 (ns danlentz.adoc
   (:require 
             [clojure.java.io :as io]
-            [danlentz/clj-uuid :as uuid]
+            [clj-uuid.api :as uuid]
             [environ.core :refer [env]])
   (:use     [clj-tuples])
   (:import  java.util.UUID

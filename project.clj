@@ -11,7 +11,7 @@
                  [environ "0.4.0"]
                  [com.cemerick/drawbridge "0.0.6"]
                  [clj-tuples "0.3.3"]
-                 [danlentz/clj-uuid "0.0.3-SNAPSHOT"]
+                 [danlentz/clj-uuid "0.0.4-SNAPSHOT"]
                  [hiccup "1.0.2"]
                  [korma "0.3.0-RC6"]
                  [pg-hstore "2.0.1"]
